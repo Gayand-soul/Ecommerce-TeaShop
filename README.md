@@ -19,21 +19,21 @@ Technologies Used:
  3. Start the development server: npm run dev
     Visit the local browser to view the app.
 
-Available Scripts
-•	npm run dev – Start development server
-•	npm run build – Build for production
-•	npm run preview – Preview the production build locally
+Available Scripts:
+1. npm run dev – Start development server
+2. npm run build – Build for production
+3. npm run preview – Preview the production build locally
 
-Responsive Design
+Responsive Design:
 This project is fully responsive and optimized for mobile, tablet, and desktop devices.
 
 Features
-•	Responsive image layout with Tailwind
-•	Mobile-friendly font scaling
-•	Scroll-to-top button with smooth animation
-•	Easy-to-customize theme with Tailwind
+1. Responsive image layout with Tailwind
+2. Mobile-friendly font scaling
+3. Scroll-to-top button with smooth animation
+4. Easy-to-customize theme with Tailwind
 
-Author
+Author:
 Built by: Gaya Andersson, May 2025
-License
+License:
 This project is open-source and available under the MIT License.
