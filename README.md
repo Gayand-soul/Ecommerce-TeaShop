@@ -1,12 +1,39 @@
-# React + Vite
+Tea Shop – React + Vite + TailwindCSS:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to  “Tea Shop”, a responsive and stylish front-end project built with **React**, **Vite**, and **TailwindCSS**. This app features beautiful typography using Google Fonts and includes responsive design for all screen sizes.
 
-Currently, two official plugins are available:
+Live Demo:
+[View the Live Site](https://github.com/Gayand-soul/Ecommerce-TeaShop)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🔤 Google Fonts (Cormorant SC)
+- 🖼️ Responsive design with mobile-first layout
 
-## Expanding the ESLint configuration
+ Installation:
+ 1. Clone the repository: git clone https://github.com/Gayand-soul/Ecommerce-TeaShop.git
+    cd TeaShop
+ 2. Install dependencies: npm install
+ 3. Start the development server: npm run dev
+    Visit the local browser to view the app.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Available Scripts
+•	npm run dev – Start development server
+•	npm run build – Build for production
+•	npm run preview – Preview the production build locally
+
+Responsive Design
+This project is fully responsive and optimized for mobile, tablet, and desktop devices.
+
+Features
+•	Responsive image layout with Tailwind
+•	Mobile-friendly font scaling
+•	Scroll-to-top button with smooth animation
+•	Easy-to-customize theme with Tailwind
+
+Author
+Built by: Gaya Andersson, May 2025
+License
+This project is open-source and available under the MIT License.
